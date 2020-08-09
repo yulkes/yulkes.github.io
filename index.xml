@@ -1,16 +1,35 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Eyal Yavor - Developer and Engineering Lead</title>
-        <link>https://yulkes.dev/</link>
-        <description>Eyal Yavor - Developer and Engineering Lead</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 13 Jul 2020 22:15:46 &#43;0300</lastBuildDate>
-            <atom:link href="https://yulkes.dev/index.xml" rel="self" type="application/rss+xml" />
-        <item>
-    <title>Hello World</title>
-    <link>https://yulkes.dev/posts/hello_world/</link>
-    <pubDate>Mon, 13 Jul 2020 22:15:46 &#43;0300</pubDate>
-    <author>Author</author>
-    <guid>https://yulkes.dev/posts/hello_world/</guid>
-    <description><![CDATA[Hello!]]></description>
-</item></channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eyal Yavor</title>
+    <link>https://yulkes.dev/</link>
+    <description>Recent content on Eyal Yavor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Jul 2020 22:15:46 +0300</lastBuildDate>
+    
+	<atom:link href="https://yulkes.dev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://yulkes.dev/posts/hello_world/</link>
+      <pubDate>Mon, 13 Jul 2020 22:15:46 +0300</pubDate>
+      
+      <guid>https://yulkes.dev/posts/hello_world/</guid>
+      <description>Hello!</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://yulkes.dev/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yulkes.dev/about/</guid>
+      <description>Hey There!
+I&amp;rsquo;m Eyal, a.k.a. yulkes, a software developer and an engineering lead. Short history: Served in the Israeli Intelligence Unit as a software developer, joined IdMlogic as an Identity Management consultant for large enterprises, co-founded Meekan which was acquired by Doodle, where I was a dev lead of the Israeli office.
+I talk often, but sometimes I also do public speaking.</description>
+    </item>
+    
+  </channel>
 </rss>
