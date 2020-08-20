@@ -1,13 +1,10 @@
 .talk-item {
-    padding: 20px 0;
-    height: 200px;
-    width: 80vw;
+    padding: 30px 0;
 }
 .talk-item-image {
     max-width: 100%;
     max-height: 100%;
     object-fit: contain;
     margin: 0 20px 20px 0;
-    float: left;
 }
 
