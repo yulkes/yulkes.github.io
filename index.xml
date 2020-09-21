@@ -6,10 +6,21 @@
     <description>Recent content on Eyal Yavor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jul 2020 16:00:00 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2020 16:35:20 +0300</lastBuildDate>
     
 	<atom:link href="https://yulkes.dev/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Why There&#39;s Nothing Here (Yet)</title>
+      <link>https://yulkes.dev/posts/why-theres-nothing-here/</link>
+      <pubDate>Mon, 21 Sep 2020 16:35:20 +0300</pubDate>
+      
+      <guid>https://yulkes.dev/posts/why-theres-nothing-here/</guid>
+      <description>To be honest, I&amp;rsquo;m focusing my writing nowadays on my upcoming book: Hacking the Home Assignment, a guide for Junior Developers who want a better shot at passing the new age of technical interviews.
+In the past I&amp;rsquo;ve written all over the place, in Medium, in our company&amp;rsquo;s internal blog, and even a personal blog.
+Hopefully in the future I&amp;rsquo;ll find content worthy of this blog&amp;rsquo;s pages, and not only as part of the book.</description>
+    </item>
     
     <item>
       <title>Hacking the Home Assignment</title>
